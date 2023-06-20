@@ -5,4 +5,4 @@ Generalised accelerations are then calculated from it (using the chain rule on E
 The main advantage of learning L rather than a relationship between coordinates in phase space, is that symmetries of systems are automatically encoded
 in the network regardless of the coordinate system fed to it. \
 This means there need not to be data pre-porocessing, and no external rules have to be taught to the network to make it physically meaningful, 
-leading to generalised predictability and stricter conservation of first integrals.
+leading to generalised predictability and stricter conservation of first integrals, which is not a granted features for other models.
